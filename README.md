@@ -1,4 +1,4 @@
-# Selvmord/Suicide 
+# Dialogue tree
 
 ## Important Note
 This is a test to have an idea of Trees in data structure
